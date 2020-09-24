@@ -6,10 +6,10 @@ public class Duck {
 	String favoriteFood;
 	
 	void quack() {
-		
+		System.out.println("*monotone* quack.");
 	}
 	void waddle() {
-		
+		System.out.println("*walks to Canada*");
 	}
 	
 	public Duck(String favoriteFood, int numberOfFriends) {
